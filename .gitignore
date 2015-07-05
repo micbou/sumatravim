@@ -1,0 +1,12 @@
+# Python
+sumatravim.egg-info
+.tox
+.coverage
+dist
+*.pyc
+
+# LaTeX
+*.aux
+*.log
+*.fdb_latexmk
+*.synctex.gz
