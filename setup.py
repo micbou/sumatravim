@@ -38,7 +38,7 @@ setup(
     author_email='contact@micbou.com',
     packages=find_packages(),
     entry_points={
-        'console_scripts': [
+        'gui_scripts': [
             'sumatravim = sumatravim.__main__:Main',
         ],
     },
