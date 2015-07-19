@@ -36,7 +36,7 @@ setup(
     license='MIT',
     author='micbou',
     author_email='contact@micbou.com',
-    packages=find_packages(),
+    packages=find_packages(exclude=['tests*']),
     entry_points={
         'gui_scripts': [
             'sumatravim = sumatravim.__main__:Main',
