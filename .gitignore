@@ -2,6 +2,7 @@
 sumatravim.egg-info
 .tox
 .coverage
+build
 dist
 *.pyc
 
